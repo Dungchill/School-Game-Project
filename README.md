@@ -3,6 +3,7 @@
 2. Điều khiển:
   . Sử dụng các nút A, S, D, W để di chuyển, bắn đạn bằng nút chuột trái, sử dụng phím "left shift" để có thể làm chậm thời gian.
 3.Cách chơi:
+  . Chạy file main.cpp để chơi.
   . Kẻ địch sẽ xuất hiện ngày càng đông và thêm chủng loại mới.
   . Tiêu diệt kẻ địch sẽ cộng bạn thêm điểm và có cơ hội rơi ra năng lượng để bạn có thể sử dụng kĩ năng làm chậm thời gian.
    . Sẽ có tới ba loại kẻ địch trong game:
